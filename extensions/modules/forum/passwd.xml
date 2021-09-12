@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings xml:lang="en">
+	<translation>
+		<key>You're using external authentication server. You must update your password through your authentication server.</key>
+		<value xml:lang="fi">Asennuksesi on määritelty käyttämään ulkoista kirjautumispalvelinta. Sinun tarvitsee vaihtaa salasanasi kirjautumispalvelimen kautta.</value>
+		<value xml:lang="sv">Du använder en extern inloggningsserver. Du måste uppdatera ditt lösenord via din inloggninsserver.</value>
+	</translation>
+	<translation>
+		<key>Error: Old password does not match.</key>
+		<value xml:lang="fi">Virhe: vanha salasana ei täsmää.</value>
+		<value xml:lang="sv">Fel: Gamla lösenordet är felaktigt.</value>
+	</translation>
+	<translation>
+		<key>Error: Passwords no not match.</key>
+		<value xml:lang="fi">Virhe: Salasanat eivät täsmää.</value>
+		<value xml:lang="sv">Fel: Lösenorden stämmer inte överens.</value>
+	</translation>
+	<translation>
+		<key>Error: You must fill all fields.</key>
+		<value xml:lang="fi">Virhe: Sinun tulee täyttää kaikki kentät.</value>
+		<value xml:lang="sv">Fel: Du måste fylla i alla fält.</value>
+	</translation>
+	<translation>
+		<key>Password changed.</key>
+		<value xml:lang="fi">Salasana vaihdettu.</value>
+		<value xml:lang="sv">Lösenordet har bytts.</value>
+	</translation>
+	<translation>
+		<key>Change password</key>
+		<value xml:lang="fi">Salasanan vaihto</value>
+		<value xml:lang="sv">Byt lösenord</value>
+	</translation>
+	<translation>
+		<key>Old password</key>
+		<value xml:lang="fi">Vanha salasana</value>
+		<value xml:lang="sv">Gamla lösenordet</value>
+	</translation>
+	<translation>
+		<key>New password</key>
+		<value xml:lang="fi">Uusi salasana</value>
+		<value xml:lang="sv">Nya lösenordet</value>
+	</translation>
+	<translation>
+		<key>Repeat new password</key>
+		<value xml:lang="fi">Toista uusi salasana</value>
+		<value xml:lang="sv">Upprepa nya lösenordet</value>
+	</translation>
+
+	<translation target="navi">
+		<key>Change password</key>
+		<value xml:lang="fi">Salasanan vaihto</value>
+		<value xml:lang="sv">Byt lösenord</value>
+	</translation>
+</strings>
